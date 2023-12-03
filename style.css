@@ -1,0 +1,13 @@
+body {
+    color: blueviolet;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: rgb(4, 242, 255);
+}
+.image {
+    width: 50%;
+}
+#judul {
+    font-size: 2em;
+}
